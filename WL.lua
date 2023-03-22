@@ -1,5 +1,5 @@
 local whitelist = {
-    223770715, -- Jaca
+    223770715, 3421731515 -- Jaca
 }
 
 local url = string.split(game.Players.LocalPlayer.CharacterAppearance, "=")
